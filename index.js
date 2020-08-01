@@ -19,7 +19,6 @@ const ResponseLog = {
   }
 };
 
-
 const LaunchRequestHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'LaunchRequest';
@@ -168,7 +167,6 @@ const HologramComputersHandler = {
           }
     }
 };
-
 const HelloWorldIntentHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest'
@@ -188,7 +186,6 @@ const HelloWorldIntentHandler = {
             .getResponse();
     }
 };
-
 const HelpIntentHandler = {
     canHandle(handlerInput) {
         return Alexa.getRequestType(handlerInput.requestEnvelope) === 'IntentRequest'
