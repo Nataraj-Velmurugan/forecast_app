@@ -1,0 +1,212 @@
+{
+    "listTemplate2Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://wallpaperplay.com/walls/full/4/4/d/170717.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://wallpaperplay.com/walls/full/4/4/d/170717.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Results for \"Forecast App\"",
+        "logoUrl": "https://image.freepik.com/free-vector/motivational-crossfit-bakcground_23-2147622423.jpg"
+    },
+    "listTemplate2ListData": {
+        "type": "list",
+        "listId": "lt2Sample",
+        "totalNumberOfItems": 10,
+        "hintText": "Try, \"Alexa, Forecast App list\"",
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "brie",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Smart Mirror"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Origin: Hardware"
+                        }
+                    },
+                    "id":"1",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Smart+Mirror.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Smart+Mirror.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "brie"
+                },
+                {
+                    "listItemIdentifier": "gruyere",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Single Cue"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Hardware"
+                        }
+                    },
+                    "id":"2",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Single+Cue.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Single+Cue.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "gruyere"
+                },
+                {
+                    "listItemIdentifier": "gorgonzola",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Jarvis"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Software"
+                        }
+                    },
+                    "id":"3",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Jarvis.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Jarvis.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "gorgonzola"
+                },
+                {
+                    "listItemIdentifier": "brie",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Hologram"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Origin: Hardware"
+                        }
+                    },
+                    "id":"4",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Hologram.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Hologram.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_brie"
+                },
+                {
+                    "listItemIdentifier": "gruyere",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Hologram Computer"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Software"
+                        }
+                    },
+                    "id":"5",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Hologram+computer.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://forecastapp.s3.ap-south-1.amazonaws.com/Hologram+computer.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_gruyere"
+                }
+            ]
+        }
+    }
+}

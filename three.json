@@ -1,0 +1,247 @@
+{
+    "listTemplate2Metadata": {
+        "type": "object",
+        "objectId": "lt1Metadata",
+        "backgroundImage": {
+            "contentDescription": null,
+            "smallSourceUrl": null,
+            "largeSourceUrl": null,
+            "sources": [
+                {
+                    "url": "https://wallpaperplay.com/walls/full/4/4/d/170717.jpg",
+                    "size": "small",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                },
+                {
+                    "url": "https://wallpaperplay.com/walls/full/4/4/d/170717.jpg",
+                    "size": "large",
+                    "widthPixels": 0,
+                    "heightPixels": 0
+                }
+            ]
+        },
+        "title": "Results for \"Forecast App\"",
+        "logoUrl": "https://image.freepik.com/free-vector/motivational-crossfit-bakcground_23-2147622423.jpg"
+    },
+    "listTemplate2ListData": {
+        "type": "list",
+        "listId": "lt2Sample",
+        "totalNumberOfItems": 10,
+        "hintText": "Try, \"Alexa, Forecast App list\"",
+        "listPage": {
+            "listItems": [
+                {
+                    "listItemIdentifier": "brie",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Smart Mirror"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Origin: Hardware"
+                        }
+                    },
+                    "id":"1",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://wallpaperaccess.com/full/1519183.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://wallpaperaccess.com/full/1519183.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "brie"
+                },
+                {
+                    "listItemIdentifier": "gruyere",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Tom Hardy"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Hardware"
+                        }
+                    },
+                    "id":"2",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://static01.nyt.com/images/2017/05/22/arts/22venom-item1/22venom-item1-jumbo.jpg?quality=90&auto=webp",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://static01.nyt.com/images/2017/05/22/arts/22venom-item1/22venom-item1-jumbo.jpg?quality=90&auto=webp",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "gruyere"
+                },
+                {
+                    "listItemIdentifier": "gorgonzola",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Jackma"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Software"
+                        }
+                    },
+                    "id":"3",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://www.bosshunting.com.au/wp-content/uploads/2020/03/billionaire-jackma-1027x560.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://www.bosshunting.com.au/wp-content/uploads/2020/03/billionaire-jackma-1027x560.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "gorgonzola"
+                },
+                {
+                    "listItemIdentifier": "brie",
+                    "ordinalNumber": 1,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "The Rock"
+                        },
+                        "secondaryText": {
+                            "type": "PlainText",
+                            "text": "Origin: Hardware"
+                        }
+                    },
+                    "id":"4",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://wallpapercave.com/wp/wp1990689.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://wallpapercave.com/wp/wp1990689.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_brie"
+                },
+                {
+                    "listItemIdentifier": "gruyere",
+                    "ordinalNumber": 2,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Abdul Kalam"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: Software"
+                        }
+                    },
+                    "id":"5",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://www.wordsaregod.com/product_images/apj_abdul_kalam_inspirational_quote2.png",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://www.wordsaregod.com/product_images/apj_abdul_kalam_inspirational_quote2.png",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_gruyere"
+                },
+                {
+                    "listItemIdentifier": "gorgonzola",
+                    "ordinalNumber": 3,
+                    "textContent": {
+                        "primaryText": {
+                            "type": "PlainText",
+                            "text": "Bill Gates"
+                        },
+                        "secondaryText": {
+                            "type": "RichText",
+                            "text": "Origin: America"
+                        }
+                    },
+                    "id":"6",
+                    "image": {
+                        "contentDescription": null,
+                        "smallSourceUrl": null,
+                        "largeSourceUrl": null,
+                        "sources": [
+                            {
+                                "url": "https://mcdn.wallpapersafari.com/medium/69/69/Do2cgJ.jpg",
+                                "size": "small",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            },
+                            {
+                                "url": "https://mcdn.wallpapersafari.com/medium/69/69/Do2cgJ.jpg",
+                                "size": "large",
+                                "widthPixels": 0,
+                                "heightPixels": 0
+                            }
+                        ]
+                    },
+                    "token": "tl_gorgonzola"
+                }
+            ]
+        }
+    }
+}

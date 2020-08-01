@@ -1,0 +1,24 @@
+{
+  "name": "scroller-view",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eragon11/scroller-view.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eragon11/scroller-view/issues"
+  },
+  "homepage": "https://github.com/eragon11/scroller-view#readme",
+  "dependencies": {
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-model": "^1.18.0",
+    "aws-sdk": "^2.326.0"
+  }
+}
