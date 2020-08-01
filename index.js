@@ -271,7 +271,6 @@ exports.handler = Alexa.SkillBuilders.custom()
         JarvisHandler,
         HologramHandler,
         HologramComputersHandler,
-        BillGatesHandler,
         HelloWorldIntentHandler,
         HelpIntentHandler,
         CancelAndStopIntentHandler,
